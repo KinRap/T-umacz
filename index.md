@@ -39,7 +39,7 @@ Whether we are dealing with a story told via spoken word or written text, as lon
 
 Man is a social being. As such, he has always endeavoured to make contact with others. This contact can still be observed today. Its fundamental form is as follows: 
 
-![alt communication model](modelkom.jpg)
+![communication model](modelkom.jpg)
 
 
 As well as transmitting information, man has also presented various forms of stories. In time, people began to write these stories down, and the communication model shifted towards: 
